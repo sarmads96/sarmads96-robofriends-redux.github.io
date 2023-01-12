@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sarmads96-robofriends-redux.github.io/static/css/main.1cb655e6.css",
+    "main.js": "/sarmads96-robofriends-redux.github.io/static/js/main.78c79602.js",
+    "static/media/SEGA.woff": "/sarmads96-robofriends-redux.github.io/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/sarmads96-robofriends-redux.github.io/index.html",
+    "main.1cb655e6.css.map": "/sarmads96-robofriends-redux.github.io/static/css/main.1cb655e6.css.map",
+    "main.78c79602.js.map": "/sarmads96-robofriends-redux.github.io/static/js/main.78c79602.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cb655e6.css",
+    "static/js/main.78c79602.js"
+  ]
+}
